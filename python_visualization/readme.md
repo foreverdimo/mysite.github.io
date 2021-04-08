@@ -17,15 +17,15 @@
 
 作业二为地理连线图，我模拟了疫情期间从北京出发到一些主要城市的感染者流动图，数据为自己虚构，该连线图可以直观展示人员流动情况：
 
-[人员流动图](output/personal_movement.html)
+[人员流动图](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/personal_movement.html)
 ### 3.作业三
 
 作业三绘制了2018-2020年的中国各省份GDP数据分级设色图，数据来源于国家统计局，是一个地图与时间轴的组合图表：
-[GDP统计图](output/gdp_map.html)
+[GDP统计图](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/gdp_map.html)
 
 ### 4.作业四
 
 作业四参考pyecharts官网的参考，绘制了多X、Y轴的折线图、柱状图多图组合的图表：
-[雨量统计图](output/rain_map.html)
+[雨量统计图](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/rain_map.html)
 
 [source code](source.py)
