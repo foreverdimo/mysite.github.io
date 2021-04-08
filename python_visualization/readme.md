@@ -21,6 +21,7 @@
 ### 3.作业三
 
 作业三绘制了2018-2020年的中国各省份GDP数据分级设色图，数据来源于国家统计局，是一个地图与时间轴的组合图表：
+
 [GDP统计图](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/gdp_map.html)
 
 ### 4.作业四
