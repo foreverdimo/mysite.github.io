@@ -8,10 +8,10 @@
 
 基于课程第一次作业统计的《时间简史》的关键词词频（选取前40个关键词）绘制成图表进行展示，可以直观展示统计结果，图表共有以下四种形式：
 
-- 词云： [wordcloud_keywords.html](output/wordcloud_keywords.html)
-- 柱状图： [bar_keywords.html](output/bar_keywords.html)
-- 象形柱状图： [pictorialbar_keywords.html](output/pictorialbar_keywords.html)
-- 饼状图： [pie_keywords.html](output/pie_keywords.html)
+- 词云： [wordcloud_keywords.html](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/wordcloud_keywords.html)
+- 柱状图： [bar_keywords.html](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/bar_keywords.html)
+- 象形柱状图： [pictorialbar_keywords.html](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/pictorialbar_keywords.html)
+- 饼状图： [pie_keywords.html](https://foreverdimo.github.io/mysite.github.io/python_visualization/output/pie_keywords.html)
 
 ### 2.作业二
 
