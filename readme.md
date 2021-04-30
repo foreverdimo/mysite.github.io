@@ -25,8 +25,8 @@
 
 ## 第三次作业
 
-1. 我选择的文学作品为《水浒传》，生成的人物共现的关系图如下： [《水浒传人物共现关系图》](HW_03/output/关系图-水浒人物.html)
-2. 实现了一个可以自选三种搜索引擎（百度，谷歌，搜狗）的聚合搜索网页： [搜索网页](HW_03/searchbox.html)
+1. 我选择的文学作品为《水浒传》，生成的人物共现的关系图如下： [《水浒传人物共现关系图》](https://foreverdimo.github.io/mysite.github.io/HW_03/output/关系图-水浒人物.html)
+2. 实现了一个可以自选三种搜索引擎（百度，谷歌，搜狗）的聚合搜索网页： [搜索网页](https://foreverdimo.github.io/mysite.github.io/HW_03/searchbox.html)
 3. [我的个人主页]([张屹洋的个人主页 (foreverdimo.github.io)](https://foreverdimo.github.io/mysite.github.io/index.html))
 
 
